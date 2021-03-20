@@ -1,5 +1,5 @@
 # termux-tts
-This is a text-to-speech for termux user
+This is a text-to-speech for termux user .
 
 # installation
 
