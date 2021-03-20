@@ -7,7 +7,7 @@ This is a text-to-speech for termux user
 
 - git clone https://github.com/dev22419/termux-tts/tts
 
-- cd tts
+- cd termux-tts
 
 - chmod +x install.sh
 
