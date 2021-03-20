@@ -1,4 +1,4 @@
-pip install python
+apt install python
 
 chmod +x tts
 
