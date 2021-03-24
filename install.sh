@@ -1,4 +1,6 @@
-apt install python
+apt install python -y
+
+apt install termux-api -y
 
 chmod +x tts
 
